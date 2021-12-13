@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
   },
+  "publishConfig": {
+    "registry": "https://inexus.ixxus.co.uk/repository/npm-private/"
+  },
   "author": {
     "name": "Udo Schöfer",
     "email": "ng2-dynamic-forms@udos86.de",

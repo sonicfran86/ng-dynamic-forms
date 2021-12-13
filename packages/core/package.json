@@ -1,6 +1,6 @@
 {
   "name": "@ng-dynamic-forms/core",
-  "version": "1.4.34",
+  "version": "1.4.34-ixxus-fix.0",
   "description": "A rapid form development library for Angular 2.x and higher",
   "main": "./bundles/core.umd.js",
   "module": "./@ng-dynamic-forms/core.es.js",
@@ -17,6 +17,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
+  },
+  "publishConfig": {
+    "registry": "https://inexus.ixxus.co.uk/repository/npm-private/"
   },
   "author": {
     "name": "Udo Schöfer",
